@@ -2,10 +2,21 @@
     "name": "qav-color-theme",
     "displayName": "qav-color-theme",
     "description": "Color Theme for QAV Developers",
+    "publisher": "QAValue",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
     },
+	"icon": "icons/qav.png",
+	"author": {
+		"name": "QAValue",
+		"email": "nuno.serrano@qavalue.com",
+		"url": "https://www.qavalue.com"
+	},
+	"repository": {
+		"url": "https://github.com/qavalue/qav-color-theme",
+		"type": "git"
+	},
     "categories": [
         "Themes"
     ],
