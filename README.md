@@ -1,6 +1,7 @@
 # QAV Color Theme
 
 [![vs marketplace](https://img.shields.io/vscode-marketplace/v/qavalue.qav-color-theme.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=qavalue.qav-color-theme)
+[![Install Count](https://img.shields.io/visual-studio-marketplace/i/qavalue.qav-color-theme)](https://marketplace.visualstudio.com/items?itemName=qavalue.qav-color-theme) 
 [![Download Count](https://img.shields.io/visual-studio-marketplace/d/qavalue.qav-color-theme)](https://marketplace.visualstudio.com/items?itemName=qavalue.qav-color-theme)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/qavalue/qav-color-theme/blob/master/LICENSE.md)
 

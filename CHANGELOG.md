@@ -16,3 +16,7 @@ All notable changes to the "qav-color-theme" extension will be documented in thi
 ## [1.0.1] - 2022-03-22
 ### Fixed
 - Good License url
+
+## [1.0.2] - 2022-03-22
+### Changed
+- Added install count
