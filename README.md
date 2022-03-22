@@ -2,7 +2,7 @@
 
 [![vs marketplace](https://img.shields.io/vscode-marketplace/v/qavalue.qav-color-theme.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=qavalue.qav-color-theme)
 [![Download Count](https://img.shields.io/visual-studio-marketplace/d/qavalue.qav-color-theme)](https://marketplace.visualstudio.com/items?itemName=qavalue.qav-color-theme)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/qavalue/qav-color-theme/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/qavalue/qav-color-theme/blob/master/LICENSE.md)
 
 This is a theme built mainly for QAV Developers ([qavalue.com](https://www.qavalue.com)), but it can be used by any developer. Feel free to try it out!
 
@@ -17,7 +17,7 @@ Preferences:
 
 ## License
 
-The source code is licensed under the [MIT](LICENSE) license.
+The source code is licensed under the [MIT](https://github.com/qavalue/qav-color-theme/blob/master/LICENSE.md) license.
 
 ## Versioning
 

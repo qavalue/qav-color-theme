@@ -3,7 +3,7 @@
     "displayName": "QAValue Color Theme",
     "description": "Color Theme for QAV Developers",
     "publisher": "qavalue",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.65.0"
     },
