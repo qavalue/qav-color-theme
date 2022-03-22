@@ -1,25 +1,28 @@
-# README
-## Extension "qav-color-theme"
+# QAV Color Theme
 
-**Enjoy!**
+[![vs marketplace](https://img.shields.io/vscode-marketplace/v/qavalue.qav-color-theme.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=qavalue.qav-color-theme)
+[![Download Count](https://img.shields.io/visual-studio-marketplace/d/qavalue.qav-color-theme)](https://marketplace.visualstudio.com/items?itemName=qavalue.qav-color-theme)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/qavalue/qav-color-theme/blob/master/LICENSE)
 
+This is a theme built mainly for QAV Developers ([qavalue.com](https://www.qavalue.com)), but it can be used by any developer. Feel free to try it out!
 
-```
-https://www.colorhexa.com/fd9e00
+![Comma-first style](images/preview.png)
 
-569cd6				ffb231
-3794ff 				fd9e00
-094771				b16e00
-007fd4				b16e00
-```
+## Installation
+Preferences:
 
+1. Go to `Extensions` (**File > Preferences > Extemsions**).
+2. Search for `QAValue Color Theme` and install it.
+3. Go to `Color Themes` (**File > Preferences > File Theme**) and choose `QAValue Color Theme` as the color theme.
 
-Process to publich
+## License
 
-```sh
-vsce login (publisher name)
+The source code is licensed under the [MIT](LICENSE) license.
 
-vsce package
+## Versioning
 
-vsce publish
-```
+`qav-color-theme` follows [Semantic Versioning 2.0.0](http://semver.org/).
+
+## Change Log
+
+You can checkout all our changes in our [change log](https://github.com/qavalue/qav-color-theme/blob/master/CHANGELOG.md).

@@ -1,9 +1,9 @@
 {
     "name": "qav-color-theme",
-    "displayName": "qav-color-theme",
+    "displayName": "QAValue Color Theme",
     "description": "Color Theme for QAV Developers",
-    "publisher": "QAValue",
-    "version": "0.0.1",
+    "publisher": "qavalue",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -23,9 +23,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "QAV Color Theme",
+                "label": "QAValue Color Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/QAV Color Theme-color-theme.json"
+                "path": "./themes/qav-color-theme.json"
             }
         ]
     }
