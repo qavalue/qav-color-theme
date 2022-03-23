@@ -22,7 +22,7 @@ The source code is licensed under the [MIT](https://github.com/qavalue/qav-color
 
 ## Versioning
 
-`qav-color-theme` follows [Semantic Versioning 2.0.0](http://semver.org/).
+`QAV Color Theme` follows [Semantic Versioning 2.0.0](http://semver.org/).
 
 ## Change Log
 

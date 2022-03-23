@@ -20,3 +20,7 @@ All notable changes to the "qav-color-theme" extension will be documented in thi
 ## [1.0.2] - 2022-03-22
 ### Changed
 - Added install count
+
+## [1.0.3] - 2022-03-23
+### Changed
+- Changed Readme file
